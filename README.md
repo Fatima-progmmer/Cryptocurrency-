@@ -16,5 +16,18 @@ A modern, responsive, and animated cryptocurrency website built using **HTML, CS
 - **CSS3 (Bootstrap 5)**
 - **Animate.css** (for animations)
 
-## 📂 Project Structure
+ Open `index.html` in your browser.
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
+
+## 👩‍💻 Author
+
+**Tanzeela Fatima**  
+🔗 [GitHub](https://github.com/Fatima-progmmer) | [LinkedIn](https://www.linkedin.com/in/tanzeela-fatima-47861b2b7/)  
+
+---
+
+Let me know if you need any changes! 🚀🔥
 
